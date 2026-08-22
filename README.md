@@ -2,7 +2,7 @@
 
 > *"One breadboard at a time."*
 
-Welcome to my Circuit Diaries! I started my Arduino journey on **[Insert Date, e.g., August 2026]** with zero electronics background. This repository is my digital diary—a place where I document every project, every mistake, every "wait, why isn't this working?" moment, and every tiny victory.
+Welcome to my Circuit Diaries! I started my Arduino journey with zero electronics background. This repository is my digital diary—a place where I document every project, every mistake, every "wait, why isn't this working?" moment, and every tiny victory.
 
 Think of this as my public notebook. It's not perfect, and that's the whole point.
 
