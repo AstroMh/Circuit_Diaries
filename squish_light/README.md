@@ -35,6 +35,6 @@ Your webcam captures your hand. Python (using MediaPipe) tracks the distance bet
 - Connecting computer vision to physical hardware.
 
 ## Next Steps
-[ ] Add more LEDs and map each to a different finger.
-[ ] Control multiple LEDs based on finger count.
-[ ] Use gestures to cycle through colors.
+[-] Add more LEDs and map each to a different finger.
+[-] Control multiple LEDs based on finger count.
+[-] Use gestures to cycle through colors.
