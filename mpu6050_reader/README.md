@@ -25,3 +25,9 @@ Arduino + Python project that reads acceleration data from an MPU6050 sensor and
 - CSV data logging
 - Console output with formatted values
 - Auto-scaling graph
+
+---
+
+## Note:
+
+This project does include any circuit schematics or ".brd" file. You just need to connect a simple mpu6050 to the arduino and that's it!
