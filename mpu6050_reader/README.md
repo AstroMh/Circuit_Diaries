@@ -30,4 +30,4 @@ Arduino + Python project that reads acceleration data from an MPU6050 sensor and
 
 ## Note:
 
-This project does include any circuit schematics or ".brd" file. You just need to connect a simple mpu6050 to the arduino and that's it!
+This project does not include any circuit schematics or ".brd" file. You just need to connect a simple mpu6050 to the arduino and that's it!
