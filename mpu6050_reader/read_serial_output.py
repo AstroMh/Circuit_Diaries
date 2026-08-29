@@ -100,7 +100,6 @@ def on_close(event):
 
 fig.canvas.mpl_connect('close_event', on_close)
 
-# --- RUN THE PLOT ---
 print("\nStarting live plot... Press Ctrl+C to stop")
 print("Or close the plot window to exit\n")
 
