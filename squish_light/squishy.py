@@ -5,7 +5,7 @@ import math
 import time
 import serial
 
-SERIAL_PORT = 'COM5'
+SERIAL_PORT = 'COM9'
 BAUDRATE = 9600
 LED_PIN = 11
 
